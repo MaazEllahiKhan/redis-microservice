@@ -1,0 +1,5 @@
+# compiled output
+dist
+.env
+node_modules
+ormconfig.json
